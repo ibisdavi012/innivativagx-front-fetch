@@ -1,3 +1,3 @@
 # Description
 
-Get JSON from an endpoint and display some fields in a table
+Gets JSON data from an endpoint and displays some fields in a table
